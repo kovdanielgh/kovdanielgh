@@ -1,5 +1,4 @@
-<h1 align="center">Hey, I’m <a href="https://www.linkedin.com/in/dankrasilnikov/" target="_blank">Daniil</a> 
-👋</h1>
+<h1 align="center">Hey, I’m <a href="https://www.linkedin.com/in/dankrasilnikov/" target="_blank">Daniil</a></h1>
 
 <h3 align="center">Full-Stack Engineer • IoT & Robotics Tinkerer • Builder of “impossible” deadlines</h3>
 
@@ -9,20 +8,20 @@
 
 ---
 
-### ⚡ What I’m doing right now
+### What I’m doing right now
 - **Shipping on-demand projects** for founders who need *results next sprint*, not next quarter  
-- **Scouting a landing zone in NL / DE** for the next chapter (relocation ready)  
+- **Scouting a landing zone in NL** for the next chapter  
 - Prototyping **edge-IoT gadgets** that talk MQTT before you finish your coffee  
 
 ---
 
-### ☎️ Skip the small talk  
+### Skip the small talk  
 **15-min demo, any time this week →** <a href="https://calendly.com/krasilnikov-orchid/30min" target="_blank">
 <img src="https://img.shields.io/badge/Book%20a%20slot-0077B5?style=for-the-badge&logo=calendly&logoColor=white"/></a>
 
 ---
 
-## 🛠  My favorite toys
+## My favorite toys
 | Frontend | Backend | Hardware |
 |---|---|---|
 | React ⚛ / Next / Svelte / Qwik | Node/Express & Kotlin/Spring | ESP-32, Pi, custom PCBs |
@@ -31,12 +30,12 @@
 
 <br/>
 
-## 🌍 Selected work in the wild
+## Selected work in the wild
 | Product | What I did |
 |---------|------------|
 | **[Terra.do](http://terra.do)** | Re-architected SSR → doubled engagement |
 | **[ClipFlip](https://www.clipflip.video)** | Real-time video ads, latency < 40 ms |
-| **[Mobioffice](https://www.mobioffice.io)** | ‘Business OS’ 👉 from Figma to prod in 6 weeks |
+| **[Mobioffice](https://www.mobioffice.io)** | ‘Business OS’ from Figma to prod in 6 weeks |
 | **[Scarlett Panda](https://www.scarlettpanda.com)** | AI bedtime-stories, 1M+ stories served |
 | **[Zephyra](https://zephyracharge.vercel.app)** | EV-charger booking Platform |
 
@@ -44,14 +43,14 @@
 
 ---
 
-## 🚀 Featured side shots
+## Featured side shots
 - **SilicorSoft** — micro-agency that drops MVPs in ≤ 30 days  
 - **Edge telemetry kit** — plug & play sensor board + TypeScript SDK  
 - **Electronics Academy** — open curriculum for makers (WIP)
 
 ---
 
-## 🤝 Let’s build something
+## Let’s build something
 <a href="https://www.linkedin.com/in/daniil-krasilnikov/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:krasilnikov.orchid@gmail.com" target="_blank">
