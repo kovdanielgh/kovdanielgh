@@ -24,7 +24,7 @@
 ## My favorite toys
 | Frontend | Backend | Hardware |
 |---|---|---|
-| React ⚛ / Next / Svelte / Qwik | Node/Express & Kotlin/Spring | ESP-32, Pi, custom PCBs |
+| React / Next / Svelte / Qwik | Node/Express & Kotlin/Spring | ESP-32, Pi, custom PCBs |
 | React Native | GraphQL & REST | MQTT • WebSockets |
 | TypeScript everywhere | Postgres • Mongo | Sensors, servos, edge ML |
 
