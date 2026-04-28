@@ -65,9 +65,3 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Shipping+MVPs+at+warp+speed;Edge-IoT+fanboy;Always+up+for+a+code+challenge" />
 </p>
 
----
-
-<h3 align="center">📈  GitHub stats</h3>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dankrasilnikov&theme=nord_dark" />
-</p>
