@@ -27,6 +27,18 @@ Build fast. Be useful. Iterate.
 
 ---
 
+## PROJECTS
+
+| Project | What it is |
+|---|---|
+| **[Willhappen](https://willhappen.io)** | Prediction markets on Hyperliquid. Prices come from HIP-4 order books. |
+| **[Rosa Protocol](https://github.com/kovdanielgh/rosa-protocol)** | Open-source communication protocol for decentralized robot swarms. |
+| **[DeFi Trading Bots](https://krasilnikoff.dev/work/defi-trading-bots)** | Production bots with Solidity contracts on Ethereum and BSC. Code is private. |
+
+More on [krasilnikoff.dev](https://krasilnikoff.dev/work).
+
+---
+
 ## STACK
 
 ```
