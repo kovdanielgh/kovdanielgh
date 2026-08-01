@@ -20,7 +20,7 @@ Build fast. Be useful. Iterate.
 
 | Where | What |
 |---|---|
-| **Bourse Direct** | Senior Forward Deployed Engineer. Refactored 3 core microservices and automated the CI/CD pipeline. Deploy and integration time down 50%. |
+| **Bourse Direct** | Senior Fullstack Engineer. Refactored 3 core microservices and automated the CI/CD pipeline. Deploy and integration time down 50%. |
 | **Private trading firm** | Blockchain Engineer & Researcher. Designed production DeFi trading bots: Solidity smart contracts and on-chain execution strategies. |
 | **[Terra.do](https://terra.do)** | Senior Frontend Developer. Cross-platform React Native app, App Store and Play Store releases, Next.js + Storybook. |
 | **MobiOffice** | Frontend Engineer. Accessibility score up 20%. Test coverage to 82%. |
