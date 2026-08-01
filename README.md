@@ -38,4 +38,4 @@ ESP-32 · Raspberry Pi · MQTT · custom PCBs
 
 ## CONTACT
 
-[Book 15 min](https://calendly.com/krasilnikov-orchid/30min) · [LinkedIn](https://www.linkedin.com/in/daniel-krasilnikoff/) · [Email](mailto:krasilnikov.orchid@gmail.com)
+[Book 15 min](https://calendly.com/krasilnikov-orchid/30min) · [LinkedIn](https://www.linkedin.com/in/daniel-krasilnikoff/) · [Email](mailto:kovdaniel.job@gmail.com)
