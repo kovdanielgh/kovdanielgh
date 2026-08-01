@@ -1,6 +1,8 @@
 # DANIIL KRASILNIKOV
 
-**Full-stack engineer · IoT & robotics**
+**Blockchain Engineer — DeFi bots, Solidity, full-stack delivery**
+
+Budapest, Hungary · [krasilnikoff.dev](https://krasilnikoff.dev)
 
 Build fast. Be useful. Iterate.
 
@@ -8,34 +10,33 @@ Build fast. Be useful. Iterate.
 
 ## NOW
 
-- I ship on-demand projects for founders with short deadlines.
-- I prototype edge-IoT hardware that speaks MQTT.
-- Next stop: the Netherlands.
+- I build automated trading systems for DeFi protocols: Solidity, on-chain execution, algorithmic strategy code.
+- I ship the product around them: React Native trading apps, microservices, CI/CD.
+- Open to blockchain / Web3 engineering roles.
 
 ---
 
-## WORK
+## TRACK RECORD
 
-| Project | What it is |
+| Where | What |
 |---|---|
-| [Willhappen](https://willhappen.io) | Prediction markets on Hyperliquid. |
-| [Terra.do](https://terra.do) | Re-architected SSR. Engagement doubled. |
-| [ClipFlip](https://www.clipflip.video) | Real-time video ads. Latency under 40 ms. |
-| [Scarlett Panda](https://www.scarlettpanda.com) | AI bedtime stories. 1M+ stories served. |
-| [Mobioffice](https://www.mobioffice.io) | Business OS. Figma to production in 6 weeks. |
+| **Bourse Direct** | Senior Forward Deployed Engineer. Refactored 3 core microservices and automated the CI/CD pipeline. Deploy and integration time down 50%. |
+| **Private trading firm** | Blockchain Engineer & Researcher. Designed production DeFi trading bots: Solidity smart contracts and on-chain execution strategies. |
+| **[Terra.do](https://terra.do)** | Senior Frontend Developer. Cross-platform React Native app, App Store and Play Store releases, Next.js + Storybook. |
+| **MobiOffice** | Frontend Engineer. Accessibility score up 20%. Test coverage to 82%. |
 
 ---
 
 ## STACK
 
 ```
-TypeScript · React · Next · Svelte · React Native
-Node · Kotlin/Spring · GraphQL · Postgres · Mongo
-ESP-32 · Raspberry Pi · MQTT · custom PCBs
+Solidity · smart contracts · DeFi protocols · on-chain execution
+TypeScript · React · Next.js · React Native
+Microservices · CI/CD · Rust · C++ · ROS · IoT · Edge AI
 ```
 
 ---
 
 ## CONTACT
 
-[Book 15 min](https://calendly.com/krasilnikov-orchid/30min) · [LinkedIn](https://www.linkedin.com/in/daniel-krasilnikoff/) · [Email](mailto:kovdaniel.job@gmail.com)
+[Portfolio](https://krasilnikoff.dev) · [LinkedIn](https://www.linkedin.com/in/daniel-krasilnikoff/) · [Email](mailto:kovdaniel.job@gmail.com)
