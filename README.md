@@ -1,6 +1,6 @@
 # DANIIL KRASILNIKOV
 
-**Blockchain Engineer — DeFi bots, Solidity, full-stack delivery**
+**Blockchain Engineer. DeFi bots, Solidity, full-stack delivery**
 
 Budapest, Hungary · [krasilnikoff.dev](https://krasilnikoff.dev)
 
