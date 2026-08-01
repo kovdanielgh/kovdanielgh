@@ -37,6 +37,17 @@ Microservices · CI/CD · Rust · C++ · ROS · IoT · Edge AI
 
 ---
 
+## STATS
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/f4f1ea/kovdanielgh">
+  <img alt="Contribution graph" src="https://ghchart.rshah.org/111111/kovdanielgh">
+</picture>
+
+<img alt="Contribution streak" src="https://streak-stats.demolab.com/?user=kovdanielgh&background=f4f1ea&border=111111&stroke=111111&ring=111111&fire=111111&currStreakNum=111111&sideNums=111111&currStreakLabel=111111&sideLabels=111111&dates=111111&border_radius=0">
+
+---
+
 ## CONTACT
 
 [Portfolio](https://krasilnikoff.dev) · [LinkedIn](https://www.linkedin.com/in/daniel-krasilnikoff/) · [Email](mailto:kovdaniel.job@gmail.com)
