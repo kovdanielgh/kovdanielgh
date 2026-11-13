@@ -29,6 +29,7 @@ Build fast. Be useful. Iterate.
 
 | Project | What it is |
 |---|---|
+| **[KC&C](https://krasilnikoff.cc)** | Krasilnikoff Credit & Collateral. Daily credit and collateral data on Canton Coin. Every figure has a source, and the method is public. |
 | **[Rounds](https://saverounds.vercel.app)** | No-loss up/down market on Monad. Only the prize pool trades; a wrong call gets the whole deposit back. [Code](https://github.com/kovdanielgh/rounds). |
 | **[Willhappen](https://willhappen.io)** | Prediction markets on Hyperliquid. Prices come from HIP-4 order books. |
 | **[Rosa Protocol](https://github.com/kovdanielgh/rosa-protocol)** | Open-source communication protocol for decentralized robot swarms. |
